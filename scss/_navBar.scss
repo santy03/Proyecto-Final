@@ -1,0 +1,28 @@
+nav{
+	ul{
+		display: flex;
+	}
+	ul{
+		li{
+			a{
+			   color : red;
+			   font-family: Arial, san-serif;
+			   font-size: 1.5rem;
+			   font-weight: 300;
+			   text-decoration: none;
+			   text-transform: uppercase;
+			   margin-right: 10px;
+			}
+		}
+	}
+	ul{
+		li{
+			list-style: none;
+			display: inline-block;
+			margin-right: 10px;
+		}
+	}
+	img{
+		width: 85px;
+	}
+}
